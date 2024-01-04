@@ -1,2 +1,3 @@
-# DWProject
-Data Wrangling Project
+#Data Wrangling Project
+
+Performing EDA on Anime Dataset
